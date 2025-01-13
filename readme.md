@@ -33,6 +33,7 @@ The guide is organized into key learning tracks:
 - Detailed explanations for each topic 
 - Community-verified
 - Time-to-time updates
+- Mapping with certificates
 
 > While we are actively working on adding notes for all topics, this is an ongoing process. Community contributions to these notes are highly appreciated.
 
