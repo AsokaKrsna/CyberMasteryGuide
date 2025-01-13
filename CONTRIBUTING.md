@@ -67,6 +67,13 @@ Please note, contributions are not limited to the defined area. Whatever ideas y
 
 ## 📋 Formatting Guidelines
 
+### Adding New Notes
+
+1. Each note must be directly linked to a topic from the main learning tracks
+2. Place your note file in the corresponding section's directory
+3. Keep all note directories or files inside the MasteryGuide/notes directory only
+4. Add a reference to your note in the topic's main file
+
 ### Notes Structure
 
 The note structure can vary but we recommend you to follow the below structure.
@@ -193,7 +200,7 @@ Before submitting your Pull Request, ensure:
 
 - [ ] You've updated any related documentation
 
-- [ ] Your commits have clear, meaningful messages
+- [ ] Your commits have clear, meaningful messages 
 
 ## 📜 License
 
